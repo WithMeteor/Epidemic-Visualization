@@ -18,7 +18,7 @@ By combining the calendar chart with the pie chart, the epidemic calendar chart 
 ### Scatter chart
 The scatter plot of novel coronavirus pneumonia / mortality rate shows the specific distribution of cure rate and mortality rate of new crown pneumonia in various provinces and cities. At the same time, the depth of each color represents the number of confirmed cases. At the same time, the scatter map can achieve linkage with epidemic map.
 
-#### Line chart
+### Line chart
 The newly added number curve shows the changes of the number of confirmed, cured and dead people over time. In order to grasp the epidemic situation more clearly, we distinguish two situations inside and outside Hubei Province, and the broken line chart can specifically show the changes of the number of people in three categories in each city
 
 ### Prediction chart
