@@ -1,0 +1,38 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	background: #eee;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.echart-vue{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+.map{
+	width: 100%;
+	height: 100%;
+}
+.calendar-pie{
+	width: 100%;
+	height: 100%;
+}
+.scatter-color{
+	width: 100%;
+	height: 100%;
+}
+.dynamic-bar{
+	width: 100%;
+	height: 100%;
+}
+.smooth-line{
+	width: 100%;
+	height: 100%;
+}
+/* .dynamic-bar{
+	width: 50%;
+	height: 50%;
+	float:left;
+} */
