@@ -1,5 +1,6 @@
 # Epidemic-Visualization
 A visualization work of COVID-19
+This work only contains the visualization part, which is only used for visualization learning, not for commercial purposes. The code for data acquisition, sentiment analysis, model prediction and data interaction of Django is not provided.
 
 ## Introduction
 This work mainly involves three modules: epidemic infection analysis, population activity overview and public opinion monitoring. A large number of real-time and effective epidemic data and public opinion data collected from Microblog, Baidu, CCTV news, other major platforms in China will be displayed through friendly and intuitive visualization charts after data processing and mining.
